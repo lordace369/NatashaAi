@@ -1,4 +1,25 @@
-this has a lot of error fixing on mac
+This is a voice is assistant made in Python with the help of the following modules :
+. pyttsx3 for text to speech
+. SpeechRecognition for listening to commands and converting them to text
+. pywhatkit for playing videos on youtube
+. webbrowser for opening website links on the browser
+. datetime module for determining the time
+. pyjokes for getting a joke
+. wikipedia
+
+This program takes a command if it is followed by the word Natasha
+. ask time to know the time : for eg- "Natasha tell me the time"
+. ask to play something on youtube : for eg- "Natasha play Linkin Park"
+. ask for a joke : for eg- "Natasha tell me a joke"
+. ask to open a website with '.com' : for eg- "Natasha open amazon .com "
+. ask to search for a product on amazon : for eg- "Natasha SEARCH FOR black boots'
+. ask to search about something on wikipedia  : for eg- "Natasha SEARCH ABOUT the universe'
+
+Many features could be added
+
+
+
+The program has a lot of error fixing on mac
 
 
 Speak() function
